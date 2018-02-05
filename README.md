@@ -1,2 +1,2 @@
-# AngularJS
-Developing applications using Angular JS
+# Angular
+Developing applications using Angular 
