@@ -42,7 +42,7 @@ export class HomeComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.itemCount=this.this.goals.length;
+    this.itemCount=this.goals.length;
   }
   addItem()
   {
